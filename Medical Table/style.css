@@ -13,6 +13,12 @@ body{
 	border-collapse: collapse;
 }
 
+form .button input:hover{
+  /* transform: scale(0.99); */
+  background: linear-gradient(-135deg, #1148c3, #0c2f7d);
+  }
+
+
 .table td,.table th{
   padding:12px 15px;
   border:1px solid #ddd;
