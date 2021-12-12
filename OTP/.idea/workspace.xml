@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa02945a-11a8-48de-a7e4-57fb5cbaabf6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Less File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gwwpE1czR4DrMv6fFtTher1oTK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/MyWebsiteDesigner/myMealSolution/Appland/MyMealSolution" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa02945a-11a8-48de-a7e4-57fb5cbaabf6" name="Default Changelist" comment="" />
+      <created>1599039143797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599039143797</updated>
+      <workItem from="1599039145658" duration="34032000" />
+      <workItem from="1600184091359" duration="1226000" />
+      <workItem from="1600865335352" duration="2091000" />
+      <workItem from="1600941038435" duration="1759000" />
+      <workItem from="1601039536567" duration="5407000" />
+      <workItem from="1601207318711" duration="34000" />
+      <workItem from="1601224112818" duration="1503000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#File_Watchers" timestamp="1599054264267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#File_Watchers/0.0.1536.824@0.0.1536.824" timestamp="1599054264267" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599054952577">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1599054952577" />
+    <state x="405" y="191" key="EditFileWatcherDialog" timestamp="1601039596055">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="405" y="191" key="EditFileWatcherDialog/0.0.1536.824@0.0.1536.824" timestamp="1601039596055" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1601207350415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601207350415" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1599054544073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599054544072" />
+    <state x="490" y="154" width="540" height="524" key="StructurePopup" timestamp="1599054365827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="154" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1599054365827" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1600941428604">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1600941428604" />
+  </component>
+</project>
